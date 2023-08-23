@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Souha Ghabri,
 - 👨🏻‍🏫 Tutor and language teacher (English & French) @Gumtree
 - 👨🏻‍💻 Engineering student, specialized in advanced technologies.
-- 👀 I’m interested in ERP, BI and data science
+- 👀 I’m interested in QA, BI and data science
 - 🌱 I’m currently focused on improving my coding skills
 - 💞️ I’m looking for help with competitive programming
 - 📫 Feel free to contact me if you have questions! Here's where you can find me:

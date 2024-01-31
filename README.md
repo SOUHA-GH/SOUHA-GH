@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Souha Ghabri,
-- 👨🏻‍🏫 Tutor and language teacher (English & French) @Gumtree
+- 👨🏻‍🏫 Tutor and language teacher (English & French) @Gumtree & @voilivoilou.
 - 👨🏻‍💻 Engineering student, specialized in advanced technologies.
-- 👀 I’m interested in QA, BI and data science
-- 🌱 I’m currently focused on improving my coding skills
+- 👀 I’m interested in QA, PO and QC roles.
+- 🌱 I’m currently focused on improving my testing skills.
 - 💞️ I’m looking for help with competitive programming
+- 🍄 I play Genshin Impact, let's play together : UID 763159370 
 - 📫 Feel free to contact me if you have questions! Here's where you can find me:
 <br><br>
 <a href="https://www.linkedin.com/in/souha-ghabri-a69a0221a//">

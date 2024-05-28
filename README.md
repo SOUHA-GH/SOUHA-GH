@@ -3,8 +3,9 @@
 - 👨🏻‍💻 Engineering student, specialized in advanced technologies.
 - 👀 I’m interested in QA, PO and QC roles.
 - 🌱 I’m currently focused on improving my testing skills.
-- 💞️ I’m looking for help with competitive programming
-- 🍄 I play Genshin Impact, let's play together : UID 763159370 
+- 💞️ I’m looking for help with beefing up my knowledge of Java.
+- 🍄 I play Genshin Impact, let's play together : UID 763159370
+- 🐉 I play Wuthering Waves, let's play together : UID 600723622 
 - 📫 Feel free to contact me if you have questions! Here's where you can find me:
 <br><br>
 <a href="https://www.linkedin.com/in/souha-ghabri-a69a0221a//">

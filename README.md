@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Souha Ghabri,
-- 👨🏻‍🏫 Tutor and language teacher (English & French) @Gumtree & @voilivoilou.
-- 👨🏻‍💻 Engineering student, specialized in advanced technologies.
-- 👀 I’m interested in QA, PO and QC roles.
-- 🌱 I’m currently focused on improving my testing skills.
+- ▶️ Current Product Operations Coordinator @Trovve
+- 👨🏻‍🏫 Tutor and language teacher (English & French) @Gumtree & @VoiliVoilou.
+- 🪪 Ex project manager @SeedsPad.
+- 👨🏻‍💻 Studied engineering, specialized in advanced technologies.
+- 👀 I’m interested in Lead QA, PO and PM roles.
+- 🌱 I’m currently focused on improving my leadership skills.
 - 💞️ I’m looking for help with beefing up my knowledge of Java.
 - 🍄 I play Genshin Impact, let's play together : UID 763159370
 - 🐉 I play Wuthering Waves, let's play together : UID 600723622 

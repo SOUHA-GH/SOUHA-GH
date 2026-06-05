@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Souha Ghabri,
-- ▶️ Current Product Operations Coordinator @Trovve
-- 👨🏻‍🏫 Tutor and language teacher (English & French) @Gumtree & @VoiliVoilou.
+- ▶️ Current Product manager @Loumo-correction
+- 👨🏻‍🏫 Tutor and language teacher (English, German, Arabic, Italian & French) @Gumtree & @VoiliVoilou.
 - 🪪 Ex project manager @SeedsPad.
-- 👨🏻‍💻 Studied engineering, specialized in advanced technologies.
+- 🪪 Ex Product Operations Coordinator @Trovve, Inc.
+- 👨🏻‍💻 Studied engineering, specialized in advanced technologies: industrial systems and competitiveness.
 - 👀 I’m interested in Lead QA, PO and PM roles.
 - 🌱 I’m currently focused on improving my leadership skills.
-- 💞️ I’m looking for help with beefing up my knowledge of Java.
+- 💞️ I’m looking for help with beefing up my knowledge in startup ecosystems and AI.
 - 🍄 I play Genshin Impact, let's play together : UID 763159370
 - 🐉 I play Wuthering Waves, let's play together : UID 600723622 
 - 📫 Feel free to contact me if you have questions! Here's where you can find me:

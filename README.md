@@ -19,25 +19,3 @@
 </a>
 <br><br>
  <hr>
-<h1> Github Stats </h1>
-  
-<p align="center">
-  <a href="https://github.com/SOUHA-GH"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=SOUHA-GH&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SOUHA-GH&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SOUHA-GH&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOUHA-GH&theme=dracula" />
-    </span></a>
-</p>
-  
-<br>
-   <hr>
-
-<h1> 🏆 GitHub Profile Trophies </h1>
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=SOUHA-GH&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-<br>  
-  
